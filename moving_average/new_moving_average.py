@@ -1,6 +1,6 @@
 import time
 
-from share.ran_array import ran_array
+from share_func.ran_array import ran_array
 
 
 def dietAverage(records,month):
